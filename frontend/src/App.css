@@ -1,0 +1,24 @@
+/* Additional custom styles */
+.difficulty-easy {
+  color: #00b8a3;
+}
+
+.difficulty-medium {
+  color: #ffc01e;
+}
+
+.difficulty-hard {
+  color: #ef4743;
+}
+
+.status-completed {
+  color: #00b8a3;
+}
+
+.status-in-progress {
+  color: #ffc01e;
+}
+
+.status-not-started {
+  color: #6b7280;
+}
